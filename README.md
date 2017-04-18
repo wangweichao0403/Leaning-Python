@@ -1,1 +1,1 @@
-# ѧϰPython
+# Python
